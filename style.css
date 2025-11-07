@@ -49,41 +49,22 @@ footer { text-align: center; padding: 20px; color: #666; }
 #typedAnswer { padding: 8px; border-radius: 6px; border: 1px solid #ccc; }
 label { display: grid; gap: 6px; }
 
-
-/* ---- Deck picker layout ---- */
+/* ---- Simple deck dropdown ---- */
 .topnav {
   display: flex;
   align-items: center;
-  gap: 12px;
-  flex-wrap: wrap;            /* allows wrapping on narrow screens */
-  margin-bottom: 0;           /* header already has spacing/shadow */
-}
-
-.topnav .nav-left {
-  display: flex;
-  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
   gap: 8px;
+  margin-bottom: 1em;
 }
 
-.deck-picker {
-  margin-left: auto;          /* push deck picker to the right */
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  flex-wrap: wrap;            /* wrap its own controls if needed */
-}
-
-.deck-picker label {
+.deck-dropdown {
+  margin-left: auto;
+  padding: 6px 10px;
   font-size: 0.9rem;
-  color: #333;
-}
-
-.deck-picker select,
-.deck-picker button {
-  font-size: 0.9rem;
-  padding: 6px 10px;          /* slightly tighter than main nav buttons */
-  border-radius: 8px;
-  border: 1px solid #ddd;
+  border: 1px solid #ccc;
+  border-radius: 6px;
   background: #fff;
   cursor: pointer;
 }
