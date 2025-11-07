@@ -14,10 +14,6 @@
     <button id="reviewTabBtn" aria-pressed="true">Review</button>
     <button id="manageTabBtn">Manage</button>
     <button id="settingsTabBtn">Settings</button>
-  </div>
-
-  <!-- Deck picker (still inside the same <nav>) -->
-  <div class="deck-picker">
     <label for="deckSelect">Deck</label>
     <select id="deckSelect"></select>
     <button id="newDeckBtn" title="Create an empty deck">New</button>
@@ -152,50 +148,3 @@
   <script src="app.js"></script>
 </body>
 </html>
-
-/* ---- Deck picker layout ---- */
-.topnav {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  flex-wrap: wrap;            /* allows wrapping on narrow screens */
-  margin-bottom: 0;           /* header already has spacing/shadow */
-}
-
-.topnav .nav-left {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
-
-.deck-picker {
-  margin-left: auto;          /* push deck picker to the right */
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  flex-wrap: wrap;            /* wrap its own controls if needed */
-}
-
-.deck-picker label {
-  font-size: 0.9rem;
-  color: #333;
-}
-
-.deck-picker select,
-.deck-picker button {
-  font-size: 0.9rem;
-  padding: 6px 10px;          /* slightly tighter than main nav buttons */
-  border-radius: 8px;
-  border: 1px solid #ddd;
-  background: #fff;
-  cursor: pointer;
-}
-
-/* Keep things comfortable on very small screens */
-@media (max-width: 520px) {
-  .deck-picker {
-    margin-left: 0;           /* let it drop under the buttons gracefully */
-    width: 100%;
-    justify-content: flex-start;
-  }
-}
