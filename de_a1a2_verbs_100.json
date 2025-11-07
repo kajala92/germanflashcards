@@ -1,0 +1,1604 @@
+{
+  "cards": [
+    {
+      "id": "sein-1762555014032-1042",
+      "front": "sein",
+      "back": "to be",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "haben-1762555014032-9539",
+      "front": "haben",
+      "back": "to have",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "werden-1762555014032-9024",
+      "front": "werden",
+      "back": "to become",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "können-1762555014032-9995",
+      "front": "können",
+      "back": "to be able to, can",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "müssen-1762555014032-8746",
+      "front": "müssen",
+      "back": "to have to, must",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "wollen-1762555014032-6804",
+      "front": "wollen",
+      "back": "to want",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "sollen-1762555014032-1261",
+      "front": "sollen",
+      "back": "should, to be supposed to",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "dürfen-1762555014032-8900",
+      "front": "dürfen",
+      "back": "may, to be allowed to",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "mögen-1762555014032-6565",
+      "front": "mögen",
+      "back": "to like",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "machen-1762555014032-6330",
+      "front": "machen",
+      "back": "to do; make",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "gehen-1762555014032-4957",
+      "front": "gehen",
+      "back": "to go",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "kommen-1762555014032-4954",
+      "front": "kommen",
+      "back": "to come",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "geben-1762555014032-4218",
+      "front": "geben",
+      "back": "to give",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "nehmen-1762555014032-4623",
+      "front": "nehmen",
+      "back": "to take",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "sehen-1762555014032-1369",
+      "front": "sehen",
+      "back": "to see",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "finden-1762555014032-2096",
+      "front": "finden",
+      "back": "to find",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "bleiben-1762555014032-6575",
+      "front": "bleiben",
+      "back": "to stay",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "liegen-1762555014032-7176",
+      "front": "liegen",
+      "back": "to lie (be located)",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "stehen-1762555014032-8539",
+      "front": "stehen",
+      "back": "to stand",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "sitzen-1762555014032-9271",
+      "front": "sitzen",
+      "back": "to sit",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "bringen-1762555014032-7220",
+      "front": "bringen",
+      "back": "to bring",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "bekommen-1762555014032-5574",
+      "front": "bekommen",
+      "back": "to receive",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "heißen-1762555014032-8604",
+      "front": "heißen",
+      "back": "to be called",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "arbeiten-1762555014032-6872",
+      "front": "arbeiten",
+      "back": "to work",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "lernen-1762555014032-7462",
+      "front": "lernen",
+      "back": "to learn",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "studieren-1762555014032-5687",
+      "front": "studieren",
+      "back": "to study (at uni)",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "wohnen-1762555014032-9617",
+      "front": "wohnen",
+      "back": "to live; reside",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "leben-1762555014032-5270",
+      "front": "leben",
+      "back": "to live",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "spielen-1762555014032-3234",
+      "front": "spielen",
+      "back": "to play",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "schreiben-1762555014032-7128",
+      "front": "schreiben",
+      "back": "to write",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "lesen-1762555014032-9203",
+      "front": "lesen",
+      "back": "to read",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "sprechen-1762555014032-1018",
+      "front": "sprechen",
+      "back": "to speak",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "hören-1762555014032-3834",
+      "front": "hören",
+      "back": "to hear; listen",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "fragen-1762555014032-8186",
+      "front": "fragen",
+      "back": "to ask",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "antworten-1762555014032-6740",
+      "front": "antworten",
+      "back": "to answer",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "denken-1762555014032-6786",
+      "front": "denken",
+      "back": "to think",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "glauben-1762555014032-6638",
+      "front": "glauben",
+      "back": "to believe",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "wissen-1762555014032-1278",
+      "front": "wissen",
+      "back": "to know (a fact)",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "kennen-1762555014032-2216",
+      "front": "kennen",
+      "back": "to know (be familiar with)",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "brauchen-1762555014032-8541",
+      "front": "brauchen",
+      "back": "to need",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "verstehen-1762555014032-2566",
+      "front": "verstehen",
+      "back": "to understand",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "zahlen-1762555014032-4456",
+      "front": "zahlen",
+      "back": "to pay",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "kaufen-1762555014032-2813",
+      "front": "kaufen",
+      "back": "to buy",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "verkaufen-1762555014032-2200",
+      "front": "verkaufen",
+      "back": "to sell",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "öffnen-1762555014032-3883",
+      "front": "öffnen",
+      "back": "to open",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "schließen-1762555014032-1055",
+      "front": "schließen",
+      "back": "to close",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "fahren-1762555014032-7350",
+      "front": "fahren",
+      "back": "to drive; go (by vehicle)",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "fliegen-1762555014032-1857",
+      "front": "fliegen",
+      "back": "to fly",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "reisen-1762555014032-6313",
+      "front": "reisen",
+      "back": "to travel",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "laufen-1762555014032-1595",
+      "front": "laufen",
+      "back": "to run; walk",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "rennen-1762555014032-9378",
+      "front": "rennen",
+      "back": "to run (sprint)",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "essen-1762555014032-6915",
+      "front": "essen",
+      "back": "to eat",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "trinken-1762555014032-2699",
+      "front": "trinken",
+      "back": "to drink",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "kochen-1762555014032-3222",
+      "front": "kochen",
+      "back": "to cook",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "backen-1762555014032-8549",
+      "front": "backen",
+      "back": "to bake",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "frühstücken-1762555014032-3360",
+      "front": "frühstücken",
+      "back": "to have breakfast",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "mittagessen-1762555014032-2678",
+      "front": "mittagessen",
+      "back": "to have lunch",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "abendessen-1762555014032-4218",
+      "front": "abendessen",
+      "back": "to have dinner",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "bezahlen-1762555014032-9429",
+      "front": "bezahlen",
+      "back": "to pay",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "bestellen-1762555014032-3392",
+      "front": "bestellen",
+      "back": "to order",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "helfen-1762555014032-4849",
+      "front": "helfen",
+      "back": "to help",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "holen-1762555014032-7133",
+      "front": "holen",
+      "back": "to fetch; get",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "tragen-1762555014032-3897",
+      "front": "tragen",
+      "back": "to carry; wear",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "ziehen-1762555014032-4362",
+      "front": "ziehen",
+      "back": "to pull",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "legen-1762555014032-3646",
+      "front": "legen",
+      "back": "to lay; put (horizontal)",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "stellen-1762555014032-4636",
+      "front": "stellen",
+      "back": "to put; place (vertical)",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "setzen-1762555014032-2505",
+      "front": "setzen",
+      "back": "to set; seat",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "beginnen-1762555014032-8911",
+      "front": "beginnen",
+      "back": "to begin",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "anfangen-1762555014032-6396",
+      "front": "anfangen",
+      "back": "to begin",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "enden-1762555014032-3043",
+      "front": "enden",
+      "back": "to end",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "starten-1762555014032-3258",
+      "front": "starten",
+      "back": "to start",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "aufhören-1762555014032-9742",
+      "front": "aufhören",
+      "back": "to stop",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "telefonieren-1762555014032-9130",
+      "front": "telefonieren",
+      "back": "to talk on the phone",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "mailen-1762555014032-1295",
+      "front": "mailen",
+      "back": "to email",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "senden-1762555014032-9835",
+      "front": "senden",
+      "back": "to send",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "schicken-1762555014032-2522",
+      "front": "schicken",
+      "back": "to send",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "erhalten-1762555014032-7987",
+      "front": "erhalten",
+      "back": "to receive, obtain",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "schwimmen-1762555014032-2759",
+      "front": "schwimmen",
+      "back": "to swim",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "baden-1762555014032-6187",
+      "front": "baden",
+      "back": "to bathe",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "trainieren-1762555014032-5200",
+      "front": "trainieren",
+      "back": "to train; work out",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "üben-1762555014032-9628",
+      "front": "üben",
+      "back": "to practice",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "warten-1762555014032-4789",
+      "front": "warten",
+      "back": "to wait",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "treffen-1762555014032-9937",
+      "front": "treffen",
+      "back": "to meet",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "besuchen-1762555014032-9084",
+      "front": "besuchen",
+      "back": "to visit",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "einladen-1762555014032-7311",
+      "front": "einladen",
+      "back": "to invite",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "anrufen-1762555014032-1585",
+      "front": "anrufen",
+      "back": "to call (by phone)",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "aufstehen-1762555014032-5786",
+      "front": "aufstehen",
+      "back": "to get up",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "ins Bett gehen-1762555014032-5411",
+      "front": "ins Bett gehen",
+      "back": "to go to bed",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "schlafen-1762555014032-2188",
+      "front": "schlafen",
+      "back": "to sleep",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "aufwachen-1762555014032-3357",
+      "front": "aufwachen",
+      "back": "to wake up",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "putzen-1762555014032-4107",
+      "front": "putzen",
+      "back": "to clean",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "aufräumen-1762555014032-9244",
+      "front": "aufräumen",
+      "back": "to tidy up",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "waschen-1762555014032-8466",
+      "front": "waschen",
+      "back": "to wash",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "duschen-1762555014032-4216",
+      "front": "duschen",
+      "back": "to shower",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "wiederholen-1762555014032-8881",
+      "front": "wiederholen",
+      "back": "to repeat",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "erklären-1762555014032-4618",
+      "front": "erklären",
+      "back": "to explain",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "beschreiben-1762555014032-7348",
+      "front": "beschreiben",
+      "back": "to describe",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "vergessen-1762555014032-6577",
+      "front": "vergessen",
+      "back": "to forget",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "erinnern-1762555014032-5522",
+      "front": "erinnern",
+      "back": "to remember",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "suchen-1762555014032-5164",
+      "front": "suchen",
+      "back": "to search; look for",
+      "pos": "verb",
+      "notes": "",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    }
+  ]
+}

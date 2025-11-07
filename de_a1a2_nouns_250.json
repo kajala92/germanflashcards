@@ -1,0 +1,4004 @@
+{
+  "cards": [
+    {
+      "id": "der Mann-1762555014031-1718",
+      "front": "der Mann",
+      "back": "the man",
+      "pos": "noun",
+      "notes": "pl: die Männer",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Frau-1762555014031-9309",
+      "front": "die Frau",
+      "back": "the woman",
+      "pos": "noun",
+      "notes": "pl: die Frauen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Kind-1762555014031-7858",
+      "front": "das Kind",
+      "back": "the child",
+      "pos": "noun",
+      "notes": "pl: die Kinder",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Junge-1762555014031-6274",
+      "front": "der Junge",
+      "back": "the boy",
+      "pos": "noun",
+      "notes": "pl: die Jungen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Mädchen-1762555014031-4059",
+      "front": "das Mädchen",
+      "back": "the girl",
+      "pos": "noun",
+      "notes": "pl: die Mädchen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Person-1762555014031-4532",
+      "front": "die Person",
+      "back": "the person",
+      "pos": "noun",
+      "notes": "pl: die Personen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Familie-1762555014031-6510",
+      "front": "die Familie",
+      "back": "the family",
+      "pos": "noun",
+      "notes": "pl: die Familien",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Vater-1762555014031-8195",
+      "front": "der Vater",
+      "back": "the father",
+      "pos": "noun",
+      "notes": "pl: die Väter",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Mutter-1762555014031-6869",
+      "front": "die Mutter",
+      "back": "the mother",
+      "pos": "noun",
+      "notes": "pl: die Mütter",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Sohn-1762555014031-5006",
+      "front": "der Sohn",
+      "back": "the son",
+      "pos": "noun",
+      "notes": "pl: die Söhne",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Tochter-1762555014031-3282",
+      "front": "die Tochter",
+      "back": "the daughter",
+      "pos": "noun",
+      "notes": "pl: die Töchter",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Bruder-1762555014031-1579",
+      "front": "der Bruder",
+      "back": "the brother",
+      "pos": "noun",
+      "notes": "pl: die Brüder",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Schwester-1762555014031-1450",
+      "front": "die Schwester",
+      "back": "the sister",
+      "pos": "noun",
+      "notes": "pl: die Schwestern",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Eltern-1762555014031-9534",
+      "front": "die Eltern",
+      "back": "the parents",
+      "pos": "noun",
+      "notes": "plural-only",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Onkel-1762555014031-7549",
+      "front": "der Onkel",
+      "back": "the uncle",
+      "pos": "noun",
+      "notes": "pl: die Onkel",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Tante-1762555014031-8277",
+      "front": "die Tante",
+      "back": "the aunt",
+      "pos": "noun",
+      "notes": "pl: die Tanten",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Großvater-1762555014031-6228",
+      "front": "der Großvater",
+      "back": "the grandfather",
+      "pos": "noun",
+      "notes": "= der Opa",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Großmutter-1762555014031-6506",
+      "front": "die Großmutter",
+      "back": "the grandmother",
+      "pos": "noun",
+      "notes": "= die Oma",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Freund-1762555014031-3549",
+      "front": "der Freund",
+      "back": "the (male) friend; boyfriend",
+      "pos": "noun",
+      "notes": "pl: die Freunde",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Freundin-1762555014031-3121",
+      "front": "die Freundin",
+      "back": "the (female) friend; girlfriend",
+      "pos": "noun",
+      "notes": "pl: die Freundinnen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Nachbar-1762555014031-1677",
+      "front": "der Nachbar",
+      "back": "the (male) neighbor",
+      "pos": "noun",
+      "notes": "pl: die Nachbarn",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Nachbarin-1762555014031-2973",
+      "front": "die Nachbarin",
+      "back": "the (female) neighbor",
+      "pos": "noun",
+      "notes": "pl: die Nachbarinnen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Gast-1762555014031-8822",
+      "front": "der Gast",
+      "back": "the guest",
+      "pos": "noun",
+      "notes": "pl: die Gäste",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Lehrer-1762555014031-1350",
+      "front": "der Lehrer",
+      "back": "the (male) teacher",
+      "pos": "noun",
+      "notes": "pl: die Lehrer",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Lehrerin-1762555014031-5365",
+      "front": "die Lehrerin",
+      "back": "the (female) teacher",
+      "pos": "noun",
+      "notes": "pl: die Lehrerinnen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Schüler-1762555014031-2422",
+      "front": "der Schüler",
+      "back": "the (male) pupil",
+      "pos": "noun",
+      "notes": "pl: die Schüler",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Schülerin-1762555014031-5978",
+      "front": "die Schülerin",
+      "back": "the (female) pupil",
+      "pos": "noun",
+      "notes": "pl: die Schülerinnen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Student-1762555014031-1636",
+      "front": "der Student",
+      "back": "the (male) student (uni)",
+      "pos": "noun",
+      "notes": "pl: die Studenten",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Studentin-1762555014031-2793",
+      "front": "die Studentin",
+      "back": "the (female) student (uni)",
+      "pos": "noun",
+      "notes": "pl: die Studentinnen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Chef-1762555014031-4386",
+      "front": "der Chef",
+      "back": "the (male) boss",
+      "pos": "noun",
+      "notes": "pl: die Chefs",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Chefin-1762555014031-1136",
+      "front": "die Chefin",
+      "back": "the (female) boss",
+      "pos": "noun",
+      "notes": "pl: die Chefinnen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Arzt-1762555014031-3616",
+      "front": "der Arzt",
+      "back": "the (male) doctor",
+      "pos": "noun",
+      "notes": "pl: die Ärzte",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Ärztin-1762555014031-4787",
+      "front": "die Ärztin",
+      "back": "the (female) doctor",
+      "pos": "noun",
+      "notes": "pl: die Ärztinnen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Verkäufer-1762555014031-3740",
+      "front": "der Verkäufer",
+      "back": "the (male) shop assistant",
+      "pos": "noun",
+      "notes": "pl: die Verkäufer",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Verkäuferin-1762555014031-5300",
+      "front": "die Verkäuferin",
+      "back": "the (female) shop assistant",
+      "pos": "noun",
+      "notes": "pl: die Verkäuferinnen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Kellner-1762555014031-1502",
+      "front": "der Kellner",
+      "back": "the (male) waiter",
+      "pos": "noun",
+      "notes": "pl: die Kellner",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Kellnerin-1762555014031-2906",
+      "front": "die Kellnerin",
+      "back": "the (female) waitress",
+      "pos": "noun",
+      "notes": "pl: die Kellnerinnen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Fahrer-1762555014031-4635",
+      "front": "der Fahrer",
+      "back": "the (male) driver",
+      "pos": "noun",
+      "notes": "pl: die Fahrer",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Fahrerin-1762555014031-2928",
+      "front": "die Fahrerin",
+      "back": "the (female) driver",
+      "pos": "noun",
+      "notes": "pl: die Fahrerinnen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Koch-1762555014031-8575",
+      "front": "der Koch",
+      "back": "the (male) cook/chef",
+      "pos": "noun",
+      "notes": "pl: die Köche",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Köchin-1762555014031-9738",
+      "front": "die Köchin",
+      "back": "the (female) cook/chef",
+      "pos": "noun",
+      "notes": "pl: die Köchinnen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Polizist-1762555014031-4190",
+      "front": "der Polizist",
+      "back": "the (male) police officer",
+      "pos": "noun",
+      "notes": "pl: die Polizisten",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Polizistin-1762555014031-7217",
+      "front": "die Polizistin",
+      "back": "the (female) police officer",
+      "pos": "noun",
+      "notes": "pl: die Polizistinnen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Ingenieur-1762555014031-2770",
+      "front": "der Ingenieur",
+      "back": "the (male) engineer",
+      "pos": "noun",
+      "notes": "pl: die Ingenieure",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Ingenieurin-1762555014031-3088",
+      "front": "die Ingenieurin",
+      "back": "the (female) engineer",
+      "pos": "noun",
+      "notes": "pl: die Ingenieurinnen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Journalist-1762555014031-3229",
+      "front": "der Journalist",
+      "back": "the (male) journalist",
+      "pos": "noun",
+      "notes": "pl: die Journalisten",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Journalistin-1762555014031-6913",
+      "front": "die Journalistin",
+      "back": "the (female) journalist",
+      "pos": "noun",
+      "notes": "pl: die Journalistinnen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Bäcker-1762555014031-4781",
+      "front": "der Bäcker",
+      "back": "the (male) baker",
+      "pos": "noun",
+      "notes": "pl: die Bäcker",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Bäckerin-1762555014031-6964",
+      "front": "die Bäckerin",
+      "back": "the (female) baker",
+      "pos": "noun",
+      "notes": "pl: die Bäckerinnen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Mechaniker-1762555014031-1404",
+      "front": "der Mechaniker",
+      "back": "the (male) mechanic",
+      "pos": "noun",
+      "notes": "pl: die Mechaniker",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Mechanikerin-1762555014031-2474",
+      "front": "die Mechanikerin",
+      "back": "the (female) mechanic",
+      "pos": "noun",
+      "notes": "pl: die Mechanikerinnen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Haus-1762555014031-2512",
+      "front": "das Haus",
+      "back": "the house",
+      "pos": "noun",
+      "notes": "pl: die Häuser",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Wohnung-1762555014031-4919",
+      "front": "die Wohnung",
+      "back": "the apartment, flat",
+      "pos": "noun",
+      "notes": "pl: die Wohnungen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Zimmer-1762555014031-4290",
+      "front": "das Zimmer",
+      "back": "the room",
+      "pos": "noun",
+      "notes": "pl: die Zimmer",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Küche-1762555014031-4556",
+      "front": "die Küche",
+      "back": "the kitchen",
+      "pos": "noun",
+      "notes": "pl: die Küchen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Bad-1762555014031-9221",
+      "front": "das Bad",
+      "back": "the bathroom",
+      "pos": "noun",
+      "notes": "= das Badezimmer",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Wohnzimmer-1762555014031-8654",
+      "front": "das Wohnzimmer",
+      "back": "the living room",
+      "pos": "noun",
+      "notes": "pl: die Wohnzimmer",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Schlafzimmer-1762555014031-8721",
+      "front": "das Schlafzimmer",
+      "back": "the bedroom",
+      "pos": "noun",
+      "notes": "pl: die Schlafzimmer",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Keller-1762555014031-2694",
+      "front": "der Keller",
+      "back": "the basement, cellar",
+      "pos": "noun",
+      "notes": "pl: die Keller",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Garten-1762555014031-9862",
+      "front": "der Garten",
+      "back": "the garden",
+      "pos": "noun",
+      "notes": "pl: die Gärten",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Balkon-1762555014031-5946",
+      "front": "der Balkon",
+      "back": "the balcony",
+      "pos": "noun",
+      "notes": "pl: die Balkone",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Stadt-1762555014031-5933",
+      "front": "die Stadt",
+      "back": "the city, town",
+      "pos": "noun",
+      "notes": "pl: die Städte",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Dorf-1762555014031-5951",
+      "front": "das Dorf",
+      "back": "the village",
+      "pos": "noun",
+      "notes": "pl: die Dörfer",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Straße-1762555014031-6992",
+      "front": "die Straße",
+      "back": "the street",
+      "pos": "noun",
+      "notes": "pl: die Straßen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Platz-1762555014031-2742",
+      "front": "der Platz",
+      "back": "the square, place",
+      "pos": "noun",
+      "notes": "pl: die Plätze",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Park-1762555014031-8666",
+      "front": "der Park",
+      "back": "the park",
+      "pos": "noun",
+      "notes": "pl: die Parks",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Bahnhof-1762555014031-6811",
+      "front": "der Bahnhof",
+      "back": "the train station",
+      "pos": "noun",
+      "notes": "pl: die Bahnhöfe",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Haltestelle-1762555014031-9995",
+      "front": "die Haltestelle",
+      "back": "the (bus/tram) stop",
+      "pos": "noun",
+      "notes": "pl: die Haltestellen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die U‑Bahn-1762555014031-9298",
+      "front": "die U‑Bahn",
+      "back": "the subway/metro",
+      "pos": "noun",
+      "notes": "pl: die U‑Bahnen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Flughafen-1762555014031-6353",
+      "front": "der Flughafen",
+      "back": "the airport",
+      "pos": "noun",
+      "notes": "pl: die Flughäfen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Supermarkt-1762555014031-5841",
+      "front": "der Supermarkt",
+      "back": "the supermarket",
+      "pos": "noun",
+      "notes": "pl: die Supermärkte",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Geschäft-1762555014031-4491",
+      "front": "das Geschäft",
+      "back": "the shop; business",
+      "pos": "noun",
+      "notes": "pl: die Geschäfte",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Bäckerei-1762555014031-1233",
+      "front": "die Bäckerei",
+      "back": "the bakery",
+      "pos": "noun",
+      "notes": "pl: die Bäckereien",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Apotheke-1762555014031-4841",
+      "front": "die Apotheke",
+      "back": "the pharmacy",
+      "pos": "noun",
+      "notes": "pl: die Apotheken",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Krankenhaus-1762555014031-9696",
+      "front": "das Krankenhaus",
+      "back": "the hospital",
+      "pos": "noun",
+      "notes": "pl: die Krankenhäuser",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Tisch-1762555014031-8421",
+      "front": "der Tisch",
+      "back": "the table",
+      "pos": "noun",
+      "notes": "pl: die Tische",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Stuhl-1762555014031-5276",
+      "front": "der Stuhl",
+      "back": "the chair",
+      "pos": "noun",
+      "notes": "pl: die Stühle",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Bett-1762555014031-5215",
+      "front": "das Bett",
+      "back": "the bed",
+      "pos": "noun",
+      "notes": "pl: die Betten",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Schrank-1762555014031-7752",
+      "front": "der Schrank",
+      "back": "the cupboard/wardrobe",
+      "pos": "noun",
+      "notes": "pl: die Schränke",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Tür-1762555014031-6445",
+      "front": "die Tür",
+      "back": "the door",
+      "pos": "noun",
+      "notes": "pl: die Türen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Fenster-1762555014031-2615",
+      "front": "das Fenster",
+      "back": "the window",
+      "pos": "noun",
+      "notes": "pl: die Fenster",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Lampe-1762555014031-4405",
+      "front": "die Lampe",
+      "back": "the lamp",
+      "pos": "noun",
+      "notes": "pl: die Lampen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Teppich-1762555014031-7595",
+      "front": "der Teppich",
+      "back": "the carpet",
+      "pos": "noun",
+      "notes": "pl: die Teppiche",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Kühlschrank-1762555014031-2434",
+      "front": "der Kühlschrank",
+      "back": "the fridge",
+      "pos": "noun",
+      "notes": "pl: die Kühlschränke",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Herd-1762555014031-8079",
+      "front": "der Herd",
+      "back": "the stove",
+      "pos": "noun",
+      "notes": "pl: die Herde",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Waschmaschine-1762555014031-8738",
+      "front": "die Waschmaschine",
+      "back": "the washing machine",
+      "pos": "noun",
+      "notes": "pl: die Waschmaschinen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Waschbecken-1762555014031-7882",
+      "front": "das Waschbecken",
+      "back": "the sink",
+      "pos": "noun",
+      "notes": "pl: die Waschbecken",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Dusche-1762555014031-9923",
+      "front": "die Dusche",
+      "back": "the shower",
+      "pos": "noun",
+      "notes": "pl: die Duschen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Badewanne-1762555014031-8396",
+      "front": "die Badewanne",
+      "back": "the bathtub",
+      "pos": "noun",
+      "notes": "pl: die Badewannen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Spiegel-1762555014031-8033",
+      "front": "der Spiegel",
+      "back": "the mirror",
+      "pos": "noun",
+      "notes": "pl: die Spiegel",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Computer-1762555014031-7905",
+      "front": "der Computer",
+      "back": "the computer",
+      "pos": "noun",
+      "notes": "pl: die Computer",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Laptop-1762555014031-2790",
+      "front": "der Laptop",
+      "back": "the laptop",
+      "pos": "noun",
+      "notes": "pl: die Laptops",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Handy-1762555014031-3619",
+      "front": "das Handy",
+      "back": "the mobile phone",
+      "pos": "noun",
+      "notes": "pl: die Handys",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Fernseher-1762555014031-2298",
+      "front": "der Fernseher",
+      "back": "the TV set",
+      "pos": "noun",
+      "notes": "pl: die Fernseher",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Fernbedienung-1762555014031-4417",
+      "front": "die Fernbedienung",
+      "back": "the remote control",
+      "pos": "noun",
+      "notes": "pl: die Fernbedienungen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Uhr-1762555014031-3456",
+      "front": "die Uhr",
+      "back": "the clock; wristwatch",
+      "pos": "noun",
+      "notes": "pl: die Uhren",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Brille-1762555014031-8606",
+      "front": "die Brille",
+      "back": "the glasses",
+      "pos": "noun",
+      "notes": "pl: die Brillen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Tag-1762555014031-4557",
+      "front": "der Tag",
+      "back": "the day",
+      "pos": "noun",
+      "notes": "pl: die Tage",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Woche-1762555014031-4017",
+      "front": "die Woche",
+      "back": "the week",
+      "pos": "noun",
+      "notes": "pl: die Wochen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Monat-1762555014031-6743",
+      "front": "der Monat",
+      "back": "the month",
+      "pos": "noun",
+      "notes": "pl: die Monate",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Jahr-1762555014031-3075",
+      "front": "das Jahr",
+      "back": "the year",
+      "pos": "noun",
+      "notes": "pl: die Jahre",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Morgen-1762555014031-1514",
+      "front": "der Morgen",
+      "back": "the morning",
+      "pos": "noun",
+      "notes": "pl: die Morgen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Nachmittag-1762555014031-6760",
+      "front": "der Nachmittag",
+      "back": "the afternoon",
+      "pos": "noun",
+      "notes": "pl: die Nachmittage",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Abend-1762555014031-2425",
+      "front": "der Abend",
+      "back": "the evening",
+      "pos": "noun",
+      "notes": "pl: die Abende",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Nacht-1762555014031-3910",
+      "front": "die Nacht",
+      "back": "the night",
+      "pos": "noun",
+      "notes": "pl: die Nächte",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Datum-1762555014031-2290",
+      "front": "das Datum",
+      "back": "the date",
+      "pos": "noun",
+      "notes": "pl: die Daten",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Kalender-1762555014031-7731",
+      "front": "der Kalender",
+      "back": "the calendar",
+      "pos": "noun",
+      "notes": "pl: die Kalender",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Wetter-1762555014031-2185",
+      "front": "das Wetter",
+      "back": "the weather",
+      "pos": "noun",
+      "notes": "—",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Regen-1762555014031-2931",
+      "front": "der Regen",
+      "back": "the rain",
+      "pos": "noun",
+      "notes": "—",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Schnee-1762555014031-6644",
+      "front": "der Schnee",
+      "back": "the snow",
+      "pos": "noun",
+      "notes": "—",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Sonne-1762555014031-2135",
+      "front": "die Sonne",
+      "back": "the sun",
+      "pos": "noun",
+      "notes": "pl: die Sonnen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Wind-1762555014031-5604",
+      "front": "der Wind",
+      "back": "the wind",
+      "pos": "noun",
+      "notes": "pl: die Winde",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Wolke-1762555014031-8637",
+      "front": "die Wolke",
+      "back": "the cloud",
+      "pos": "noun",
+      "notes": "pl: die Wolken",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Brot-1762555014031-9199",
+      "front": "das Brot",
+      "back": "the bread",
+      "pos": "noun",
+      "notes": "pl: die Brote",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Brötchen-1762555014031-2342",
+      "front": "das Brötchen",
+      "back": "the bread roll",
+      "pos": "noun",
+      "notes": "pl: die Brötchen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Käse-1762555014031-3325",
+      "front": "der Käse",
+      "back": "the cheese",
+      "pos": "noun",
+      "notes": "(rare pl) die Käse",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Milch-1762555014031-8330",
+      "front": "die Milch",
+      "back": "the milk",
+      "pos": "noun",
+      "notes": "—",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Wasser-1762555014031-6679",
+      "front": "das Wasser",
+      "back": "the water",
+      "pos": "noun",
+      "notes": "—",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Kaffee-1762555014031-1845",
+      "front": "der Kaffee",
+      "back": "the coffee",
+      "pos": "noun",
+      "notes": "pl: die Kaffees",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Tee-1762555014031-7083",
+      "front": "der Tee",
+      "back": "the tea",
+      "pos": "noun",
+      "notes": "pl: die Tees",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Saft-1762555014031-6836",
+      "front": "der Saft",
+      "back": "the juice",
+      "pos": "noun",
+      "notes": "pl: die Säfte",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Suppe-1762555014031-3451",
+      "front": "die Suppe",
+      "back": "the soup",
+      "pos": "noun",
+      "notes": "pl: die Suppen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Salat-1762555014031-5203",
+      "front": "der Salat",
+      "back": "the salad",
+      "pos": "noun",
+      "notes": "pl: die Salate",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Obst-1762555014031-9589",
+      "front": "das Obst",
+      "back": "the fruit",
+      "pos": "noun",
+      "notes": "—",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Gemüse-1762555014031-1706",
+      "front": "das Gemüse",
+      "back": "the vegetables",
+      "pos": "noun",
+      "notes": "—",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Apfel-1762555014031-6263",
+      "front": "der Apfel",
+      "back": "the apple",
+      "pos": "noun",
+      "notes": "pl: die Äpfel",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Banane-1762555014031-4759",
+      "front": "die Banane",
+      "back": "the banana",
+      "pos": "noun",
+      "notes": "pl: die Bananen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Orange-1762555014031-7791",
+      "front": "die Orange",
+      "back": "the orange",
+      "pos": "noun",
+      "notes": "pl: die Orangen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Erdbeere-1762555014031-9890",
+      "front": "die Erdbeere",
+      "back": "the strawberry",
+      "pos": "noun",
+      "notes": "pl: die Erdbeeren",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Kartoffel-1762555014031-8036",
+      "front": "die Kartoffel",
+      "back": "the potato",
+      "pos": "noun",
+      "notes": "pl: die Kartoffeln",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Reis-1762555014031-3678",
+      "front": "der Reis",
+      "back": "the rice",
+      "pos": "noun",
+      "notes": "—",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Nudeln-1762555014031-7939",
+      "front": "die Nudeln",
+      "back": "the noodles/pasta",
+      "pos": "noun",
+      "notes": "plural-only",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Fleisch-1762555014031-6789",
+      "front": "das Fleisch",
+      "back": "the meat",
+      "pos": "noun",
+      "notes": "—",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Fisch-1762555014031-3163",
+      "front": "der Fisch",
+      "back": "the fish",
+      "pos": "noun",
+      "notes": "pl: die Fische",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Ei-1762555014031-4995",
+      "front": "das Ei",
+      "back": "the egg",
+      "pos": "noun",
+      "notes": "pl: die Eier",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Hemd-1762555014031-1702",
+      "front": "das Hemd",
+      "back": "the shirt",
+      "pos": "noun",
+      "notes": "pl: die Hemden",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Hose-1762555014031-2291",
+      "front": "die Hose",
+      "back": "the trousers",
+      "pos": "noun",
+      "notes": "pl: die Hosen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Kleid-1762555014031-3588",
+      "front": "das Kleid",
+      "back": "the dress",
+      "pos": "noun",
+      "notes": "pl: die Kleider",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Rock-1762555014031-7066",
+      "front": "der Rock",
+      "back": "the skirt",
+      "pos": "noun",
+      "notes": "pl: die Röcke",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Jacke-1762555014031-9851",
+      "front": "die Jacke",
+      "back": "the jacket",
+      "pos": "noun",
+      "notes": "pl: die Jacken",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Mantel-1762555014031-7613",
+      "front": "der Mantel",
+      "back": "the coat",
+      "pos": "noun",
+      "notes": "pl: die Mäntel",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Schuh-1762555014031-2668",
+      "front": "der Schuh",
+      "back": "the shoe",
+      "pos": "noun",
+      "notes": "pl: die Schuhe",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Schuhe-1762555014031-6898",
+      "front": "die Schuhe",
+      "back": "the shoes",
+      "pos": "noun",
+      "notes": "plural-only",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Socken-1762555014031-6668",
+      "front": "die Socken",
+      "back": "the socks",
+      "pos": "noun",
+      "notes": "plural-only",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Hut-1762555014031-4459",
+      "front": "der Hut",
+      "back": "the hat",
+      "pos": "noun",
+      "notes": "pl: die Hüte",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Gürtel-1762555014031-4202",
+      "front": "der Gürtel",
+      "back": "the belt",
+      "pos": "noun",
+      "notes": "pl: die Gürtel",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Pullover-1762555014031-3245",
+      "front": "der Pullover",
+      "back": "the sweater",
+      "pos": "noun",
+      "notes": "pl: die Pullover",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Buch-1762555014031-5870",
+      "front": "das Buch",
+      "back": "the book",
+      "pos": "noun",
+      "notes": "pl: die Bücher",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Zeitung-1762555014031-9866",
+      "front": "die Zeitung",
+      "back": "the newspaper",
+      "pos": "noun",
+      "notes": "pl: die Zeitungen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Zeitschrift-1762555014031-1623",
+      "front": "die Zeitschrift",
+      "back": "the magazine",
+      "pos": "noun",
+      "notes": "pl: die Zeitschriften",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Stift-1762555014031-6882",
+      "front": "der Stift",
+      "back": "the pen/pencil",
+      "pos": "noun",
+      "notes": "pl: die Stifte",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Bleistift-1762555014031-1598",
+      "front": "der Bleistift",
+      "back": "the pencil",
+      "pos": "noun",
+      "notes": "pl: die Bleistifte",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Kugelschreiber-1762555014031-7187",
+      "front": "der Kugelschreiber",
+      "back": "the ballpoint pen",
+      "pos": "noun",
+      "notes": "pl: die Kugelschreiber",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Heft-1762555014031-6344",
+      "front": "das Heft",
+      "back": "the notebook",
+      "pos": "noun",
+      "notes": "pl: die Hefte",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Papier-1762555014031-7581",
+      "front": "das Papier",
+      "back": "the paper",
+      "pos": "noun",
+      "notes": "pl: die Papiere (docs)",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Aufgabe-1762555014031-7059",
+      "front": "die Aufgabe",
+      "back": "the exercise/task",
+      "pos": "noun",
+      "notes": "pl: die Aufgaben",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Prüfung-1762555014031-4806",
+      "front": "die Prüfung",
+      "back": "the exam",
+      "pos": "noun",
+      "notes": "pl: die Prüfungen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Note-1762555014031-3561",
+      "front": "die Note",
+      "back": "the grade/mark",
+      "pos": "noun",
+      "notes": "pl: die Noten",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Kurs-1762555014031-8435",
+      "front": "der Kurs",
+      "back": "the course",
+      "pos": "noun",
+      "notes": "pl: die Kurse",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Schule-1762555014031-1273",
+      "front": "die Schule",
+      "back": "the school",
+      "pos": "noun",
+      "notes": "pl: die Schulen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Universität-1762555014031-5692",
+      "front": "die Universität",
+      "back": "the university",
+      "pos": "noun",
+      "notes": "pl: die Universitäten",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Auto-1762555014031-1385",
+      "front": "das Auto",
+      "back": "the car",
+      "pos": "noun",
+      "notes": "pl: die Autos",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Bus-1762555014031-3970",
+      "front": "der Bus",
+      "back": "the bus",
+      "pos": "noun",
+      "notes": "pl: die Busse",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Straßenbahn-1762555014031-9255",
+      "front": "die Straßenbahn",
+      "back": "the tram",
+      "pos": "noun",
+      "notes": "pl: die Straßenbahnen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Zug-1762555014031-3230",
+      "front": "der Zug",
+      "back": "the train",
+      "pos": "noun",
+      "notes": "pl: die Züge",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Fahrrad-1762555014031-7440",
+      "front": "das Fahrrad",
+      "back": "the bicycle",
+      "pos": "noun",
+      "notes": "pl: die Fahrräder",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Flugzeug-1762555014031-4157",
+      "front": "das Flugzeug",
+      "back": "the airplane",
+      "pos": "noun",
+      "notes": "pl: die Flugzeuge",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Ticket-1762555014031-5298",
+      "front": "das Ticket",
+      "back": "the ticket",
+      "pos": "noun",
+      "notes": "pl: die Tickets",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Fahrkarte-1762555014031-2359",
+      "front": "die Fahrkarte",
+      "back": "the (travel) ticket",
+      "pos": "noun",
+      "notes": "pl: die Fahrkarten",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Ampel-1762555014031-2231",
+      "front": "die Ampel",
+      "back": "the traffic light",
+      "pos": "noun",
+      "notes": "pl: die Ampeln",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Unfall-1762555014031-6408",
+      "front": "der Unfall",
+      "back": "the accident",
+      "pos": "noun",
+      "notes": "pl: die Unfälle",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Kreuzung-1762555014031-3667",
+      "front": "die Kreuzung",
+      "back": "the intersection",
+      "pos": "noun",
+      "notes": "pl: die Kreuzungen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Brücke-1762555014031-6790",
+      "front": "die Brücke",
+      "back": "the bridge",
+      "pos": "noun",
+      "notes": "pl: die Brücken",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Tankstelle-1762555014031-8480",
+      "front": "die Tankstelle",
+      "back": "the petrol station",
+      "pos": "noun",
+      "notes": "pl: die Tankstellen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Autobahn-1762555014031-3354",
+      "front": "die Autobahn",
+      "back": "the motorway",
+      "pos": "noun",
+      "notes": "pl: die Autobahnen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Baum-1762555014031-2688",
+      "front": "der Baum",
+      "back": "the tree",
+      "pos": "noun",
+      "notes": "pl: die Bäume",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Blume-1762555014031-7637",
+      "front": "die Blume",
+      "back": "the flower",
+      "pos": "noun",
+      "notes": "pl: die Blumen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Berg-1762555014031-8351",
+      "front": "der Berg",
+      "back": "the mountain",
+      "pos": "noun",
+      "notes": "pl: die Berge",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der See-1762555014031-3139",
+      "front": "der See",
+      "back": "the lake",
+      "pos": "noun",
+      "notes": "pl: die Seen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Fluss-1762555014031-5798",
+      "front": "der Fluss",
+      "back": "the river",
+      "pos": "noun",
+      "notes": "pl: die Flüsse",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Wald-1762555014031-3315",
+      "front": "der Wald",
+      "back": "the forest",
+      "pos": "noun",
+      "notes": "pl: die Wälder",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Strand-1762555014031-8683",
+      "front": "der Strand",
+      "back": "the beach",
+      "pos": "noun",
+      "notes": "pl: die Strände",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Meer-1762555014031-4005",
+      "front": "das Meer",
+      "back": "the sea",
+      "pos": "noun",
+      "notes": "pl: die Meere",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Himmel-1762555014031-5153",
+      "front": "der Himmel",
+      "back": "the sky",
+      "pos": "noun",
+      "notes": "pl: die Himmel",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Erde-1762555014031-2917",
+      "front": "die Erde",
+      "back": "the earth, soil",
+      "pos": "noun",
+      "notes": "pl: die Erden (rare)",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Stein-1762555014031-1334",
+      "front": "der Stein",
+      "back": "the stone",
+      "pos": "noun",
+      "notes": "pl: die Steine",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Feuer-1762555014031-2553",
+      "front": "das Feuer",
+      "back": "the fire",
+      "pos": "noun",
+      "notes": "pl: die Feuer",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Kopf-1762555014031-7676",
+      "front": "der Kopf",
+      "back": "the head",
+      "pos": "noun",
+      "notes": "pl: die Köpfe",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Gesicht-1762555014031-1839",
+      "front": "das Gesicht",
+      "back": "the face",
+      "pos": "noun",
+      "notes": "pl: die Gesichter",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Auge-1762555014031-7846",
+      "front": "das Auge",
+      "back": "the eye",
+      "pos": "noun",
+      "notes": "pl: die Augen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Ohr-1762555014031-5571",
+      "front": "das Ohr",
+      "back": "the ear",
+      "pos": "noun",
+      "notes": "pl: die Ohren",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Nase-1762555014031-1320",
+      "front": "die Nase",
+      "back": "the nose",
+      "pos": "noun",
+      "notes": "pl: die Nasen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Mund-1762555014031-6343",
+      "front": "der Mund",
+      "back": "the mouth",
+      "pos": "noun",
+      "notes": "pl: die Münder",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Zahn-1762555014031-4366",
+      "front": "der Zahn",
+      "back": "the tooth",
+      "pos": "noun",
+      "notes": "pl: die Zähne",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Hand-1762555014031-4199",
+      "front": "die Hand",
+      "back": "the hand",
+      "pos": "noun",
+      "notes": "pl: die Hände",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Arm-1762555014031-3842",
+      "front": "der Arm",
+      "back": "the arm",
+      "pos": "noun",
+      "notes": "pl: die Arme",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Bein-1762555014031-5332",
+      "front": "das Bein",
+      "back": "the leg",
+      "pos": "noun",
+      "notes": "pl: die Beine",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Fuß-1762555014031-7287",
+      "front": "der Fuß",
+      "back": "the foot",
+      "pos": "noun",
+      "notes": "pl: die Füße",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Rücken-1762555014031-1352",
+      "front": "der Rücken",
+      "back": "the back",
+      "pos": "noun",
+      "notes": "pl: die Rücken",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Bauch-1762555014031-2207",
+      "front": "der Bauch",
+      "back": "the belly/stomach",
+      "pos": "noun",
+      "notes": "pl: die Bäuche",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Gesundheit-1762555014031-2386",
+      "front": "die Gesundheit",
+      "back": "the health",
+      "pos": "noun",
+      "notes": "—",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Tablette-1762555014031-1844",
+      "front": "die Tablette",
+      "back": "the tablet/pill",
+      "pos": "noun",
+      "notes": "pl: die Tabletten",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Rezept-1762555014031-5843",
+      "front": "das Rezept",
+      "back": "the prescription; recipe",
+      "pos": "noun",
+      "notes": "pl: die Rezepte",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Arbeit-1762555014031-1396",
+      "front": "die Arbeit",
+      "back": "the work; job",
+      "pos": "noun",
+      "notes": "pl: die Arbeiten",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Beruf-1762555014031-9671",
+      "front": "der Beruf",
+      "back": "the profession",
+      "pos": "noun",
+      "notes": "pl: die Berufe",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Geld-1762555014031-8475",
+      "front": "das Geld",
+      "back": "the money",
+      "pos": "noun",
+      "notes": "—",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Lohn-1762555014031-9308",
+      "front": "der Lohn",
+      "back": "the wage",
+      "pos": "noun",
+      "notes": "pl: die Löhne",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Gehalt-1762555014031-6784",
+      "front": "das Gehalt",
+      "back": "the salary",
+      "pos": "noun",
+      "notes": "pl: die Gehälter",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Firma-1762555014031-1790",
+      "front": "die Firma",
+      "back": "the company",
+      "pos": "noun",
+      "notes": "pl: die Firmen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Rechnung-1762555014031-1837",
+      "front": "die Rechnung",
+      "back": "the bill/invoice",
+      "pos": "noun",
+      "notes": "pl: die Rechnungen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Quittung-1762555014031-1189",
+      "front": "die Quittung",
+      "back": "the receipt",
+      "pos": "noun",
+      "notes": "pl: die Quittungen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Kreditkarte-1762555014031-4676",
+      "front": "die Kreditkarte",
+      "back": "the credit card",
+      "pos": "noun",
+      "notes": "pl: die Kreditkarten",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Konto-1762555014031-3712",
+      "front": "das Konto",
+      "back": "the account",
+      "pos": "noun",
+      "notes": "pl: die Konten",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Angebot-1762555014031-3826",
+      "front": "das Angebot",
+      "back": "the offer",
+      "pos": "noun",
+      "notes": "pl: die Angebote",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Bestellung-1762555014031-7739",
+      "front": "die Bestellung",
+      "back": "the order (purchase)",
+      "pos": "noun",
+      "notes": "pl: die Bestellungen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Vertrag-1762555014031-9625",
+      "front": "der Vertrag",
+      "back": "the contract",
+      "pos": "noun",
+      "notes": "pl: die Verträge",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Steuer-1762555014031-9165",
+      "front": "die Steuer",
+      "back": "the tax",
+      "pos": "noun",
+      "notes": "pl: die Steuern",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Schlüssel-1762555014031-4420",
+      "front": "der Schlüssel",
+      "back": "the key",
+      "pos": "noun",
+      "notes": "pl: die Schlüssel",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Brief-1762555014031-1217",
+      "front": "der Brief",
+      "back": "the letter",
+      "pos": "noun",
+      "notes": "pl: die Briefe",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die E‑Mail-1762555014031-2095",
+      "front": "die E‑Mail",
+      "back": "the email",
+      "pos": "noun",
+      "notes": "pl: die E‑Mails",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Nachricht-1762555014031-8272",
+      "front": "die Nachricht",
+      "back": "the message/news",
+      "pos": "noun",
+      "notes": "pl: die Nachrichten",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Hilfe-1762555014031-7963",
+      "front": "die Hilfe",
+      "back": "the help",
+      "pos": "noun",
+      "notes": "pl: die Hilfen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Frage-1762555014031-7502",
+      "front": "die Frage",
+      "back": "the question",
+      "pos": "noun",
+      "notes": "pl: die Fragen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Antwort-1762555014031-4468",
+      "front": "die Antwort",
+      "back": "the answer",
+      "pos": "noun",
+      "notes": "pl: die Antworten",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Termin-1762555014031-1938",
+      "front": "der Termin",
+      "back": "the appointment",
+      "pos": "noun",
+      "notes": "pl: die Termine",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Problem-1762555014031-1110",
+      "front": "das Problem",
+      "back": "the problem",
+      "pos": "noun",
+      "notes": "pl: die Probleme",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Lösung-1762555014031-4895",
+      "front": "die Lösung",
+      "back": "the solution",
+      "pos": "noun",
+      "notes": "pl: die Lösungen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Idee-1762555014031-7249",
+      "front": "die Idee",
+      "back": "the idea",
+      "pos": "noun",
+      "notes": "pl: die Ideen",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Fehler-1762555014031-3348",
+      "front": "der Fehler",
+      "back": "the mistake",
+      "pos": "noun",
+      "notes": "pl: die Fehler",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Stunde-1762555014031-4025",
+      "front": "die Stunde",
+      "back": "the hour; lesson",
+      "pos": "noun",
+      "notes": "pl: die Stunden",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Beispiel-1762555014031-1879",
+      "front": "das Beispiel",
+      "back": "the example",
+      "pos": "noun",
+      "notes": "pl: die Beispiele",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Nummer-1762555014031-4069",
+      "front": "die Nummer",
+      "back": "the number",
+      "pos": "noun",
+      "notes": "pl: die Nummern",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Karte-1762555014031-4039",
+      "front": "die Karte",
+      "back": "the card; map",
+      "pos": "noun",
+      "notes": "pl: die Karten",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Farbe-1762555014031-5792",
+      "front": "die Farbe",
+      "back": "the color",
+      "pos": "noun",
+      "notes": "pl: die Farben",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "die Musik-1762555014031-8778",
+      "front": "die Musik",
+      "back": "the music",
+      "pos": "noun",
+      "notes": "—",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Film-1762555014031-6626",
+      "front": "der Film",
+      "back": "the film",
+      "pos": "noun",
+      "notes": "pl: die Filme",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "das Hobby-1762555014031-5035",
+      "front": "das Hobby",
+      "back": "the hobby",
+      "pos": "noun",
+      "notes": "pl: die Hobbys",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Montag-1762555014031-6881",
+      "front": "der Montag",
+      "back": "Monday",
+      "pos": "noun",
+      "notes": "pl: die Montage",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Dienstag-1762555014031-6434",
+      "front": "der Dienstag",
+      "back": "Tuesday",
+      "pos": "noun",
+      "notes": "pl: die Dienstage",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Mittwoch-1762555014031-8318",
+      "front": "der Mittwoch",
+      "back": "Wednesday",
+      "pos": "noun",
+      "notes": "pl: die Mittwoche",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Donnerstag-1762555014031-4167",
+      "front": "der Donnerstag",
+      "back": "Thursday",
+      "pos": "noun",
+      "notes": "pl: die Donnerstage",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Freitag-1762555014031-8057",
+      "front": "der Freitag",
+      "back": "Friday",
+      "pos": "noun",
+      "notes": "pl: die Freitage",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Samstag-1762555014031-4213",
+      "front": "der Samstag",
+      "back": "Saturday",
+      "pos": "noun",
+      "notes": "pl: die Samstage",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Sonntag-1762555014031-4994",
+      "front": "der Sonntag",
+      "back": "Sunday",
+      "pos": "noun",
+      "notes": "pl: die Sonntage",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Januar-1762555014031-9985",
+      "front": "der Januar",
+      "back": "January",
+      "pos": "noun",
+      "notes": "—",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Februar-1762555014031-1517",
+      "front": "der Februar",
+      "back": "February",
+      "pos": "noun",
+      "notes": "—",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der März-1762555014031-8008",
+      "front": "der März",
+      "back": "March",
+      "pos": "noun",
+      "notes": "—",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der April-1762555014031-8771",
+      "front": "der April",
+      "back": "April",
+      "pos": "noun",
+      "notes": "—",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Mai-1762555014031-3390",
+      "front": "der Mai",
+      "back": "May",
+      "pos": "noun",
+      "notes": "—",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "der Juni-1762555014031-2735",
+      "front": "der Juni",
+      "back": "June",
+      "pos": "noun",
+      "notes": "—",
+      "created": 1762555014028,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 1762555014028,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    }
+  ]
+}
