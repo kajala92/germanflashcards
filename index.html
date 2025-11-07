@@ -10,17 +10,12 @@
   <header>
     <h1>German Flashcards</h1>
     <nav class="topnav">
-  <div class="nav-left">
-    <button id="reviewTabBtn" aria-pressed="true">Review</button>
-    <button id="manageTabBtn">Manage</button>
-    <button id="settingsTabBtn">Settings</button>
-    <label for="deckSelect">Deck</label>
-    <select id="deckSelect"></select>
-    <button id="newDeckBtn" title="Create an empty deck">New</button>
-    <button id="importDeckBtn" title="Import JSON into this deck">Import</button>
-    <button id="importUrlBtn" title="Import from URL (raw JSON)">From URL</button>
-    <button id="exportDeckBtn" title="Export current deck">Export</button>
-  </div>
+  <button id="reviewTabBtn" aria-pressed="true">Review</button>
+  <button id="manageTabBtn">Manage</button>
+  <button id="settingsTabBtn">Settings</button>
+
+  <!-- Deck dropdown -->
+  <select id="deckSelect" class="deck-dropdown" title="Choose deck"></select>
 </nav>
   </header>
 
