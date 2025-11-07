@@ -1,0 +1,36 @@
+{
+  "cards": [
+    {
+      "id": "demo1",
+      "front": "der Tisch",
+      "back": "the table",
+      "pos": "noun",
+      "notes": "Plural: die Tische",
+      "created": 0,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 0,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    },
+    {
+      "id": "demo2",
+      "front": "laufen",
+      "back": "to run",
+      "pos": "verb",
+      "notes": "l\u00e4uft, lief, ist gelaufen",
+      "created": 0,
+      "srs": {
+        "interval": 0,
+        "ease": 2.5,
+        "due": 0,
+        "reps": 0,
+        "lapses": 0,
+        "new": true
+      }
+    }
+  ]
+}

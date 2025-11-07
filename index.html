@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>German Flashcards — Kate</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>German Flashcards</h1>
+    <nav>
+      <button id="reviewTabBtn" aria-pressed="true">Review</button>
+      <button id="manageTabBtn">Manage</button>
+      <button id="settingsTabBtn">Settings</button>
+    </nav>
+  </header>
+
+  <main>
+    <!-- Review Panel -->
+    <section id="reviewPanel" role="region" aria-labelledby="reviewTabBtn">
+      <div class="stats">
+        <span>Due: <strong id="dueCount">0</strong></span>
+        <span>New: <strong id="newCount">0</strong></span>
+        <span>Total: <strong id="totalCount">0</strong></span>
+      </div>
+
+      <div class="card" id="card" hidden>
+        <div class="front" id="cardFront"></div>
+
+        <div class="typing-wrap" id="typingWrap" hidden>
+          <label for="typedAnswer">Type the answer (optional)</label>
+          <input id="typedAnswer" type="text" autocomplete="off" />
+        </div>
+
+        <div class="audio-actions">
+          <button id="speakFrontBtn" title="Speak front">🔊 Front</button>
+          <button id="speakBackBtn" title="Speak back">🔊 Back</button>
+        </div>
+
+        <div class="back" id="cardBack" hidden></div>
+
+        <div class="actions" id="reviewActions">
+          <button id="showBtn">Show</button>
+          <div id="gradeBtns" hidden>
+            <button class="again" id="againBtn">Again</button>
+            <button class="good" id="goodBtn">Good</button>
+            <button class="easy" id="easyBtn">Easy</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="empty" id="emptyMessage">
+        <p>No cards due. Add new cards in <em>Manage</em> or adjust limits in <em>Settings</em>.</p>
+      </div>
+    </section>
+
+    <!-- Manage Panel -->
+    <section id="managePanel" role="region" aria-labelledby="manageTabBtn" hidden>
+      <h2>Your Deck</h2>
+
+      <details>
+        <summary>Add a single card</summary>
+        <form id="addForm">
+          <div class="grid">
+            <label>German (front)<input name="front" required placeholder="der Tisch" /></label>
+            <label>English (back)<input name="back" required placeholder="the table" /></label>
+            <label>Part of speech<input name="pos" placeholder="noun, verb, adj..." /></label>
+            <label>Notes / Example<textarea name="notes" rows="2" placeholder="Plural: die Tische"></textarea></label>
+          </div>
+          <button type="submit">Add</button>
+        </form>
+      </details>
+
+      <details>
+        <summary>Bulk add (one per line: German = English)</summary>
+        <textarea id="bulkText" rows="6" placeholder="der Tisch = the table&#10;die Lampe = the lamp"></textarea>
+        <button id="bulkAddBtn">Add Lines</button>
+      </details>
+
+      <div class="table-wrap">
+        <table id="deckTable" aria-label="Deck">
+          <thead>
+            <tr><th>#</th><th>German</th><th>English</th><th>POS</th><th>Due</th><th></th></tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+
+      <div class="io">
+        <input type="file" id="importFile" accept="application/json" />
+        <button id="importBtn">Import JSON</button>
+        <button id="exportBtn">Export JSON</button>
+        <button id="clearAllBtn">Clear All</button>
+      </div>
+    </section>
+
+    <!-- Settings Panel -->
+    <section id="settingsPanel" role="region" aria-labelledby="settingsTabBtn" hidden>
+      <h2>Settings</h2>
+      <form id="settingsForm">
+        <label>New cards per session <input type="number" min="0" id="newLimit" /></label>
+        <label>Typing mode (require typed answer to show)
+          <input type="checkbox" id="typingMode" />
+        </label>
+        <label>Shuffle due queue
+          <input type="checkbox" id="shuffleDue" />
+        </label>
+        <hr />
+        <fieldset>
+          <legend>Audio (Text‑to‑Speech)</legend>
+          <label>Enable audio
+            <input type="checkbox" id="ttsEnabled" />
+          </label>
+          <label>Auto‑speak on reveal
+            <input type="checkbox" id="ttsAutoSpeak" />
+          </label>
+          <div class="grid">
+            <label>Voice
+              <select id="ttsVoice"></select>
+            </label>
+            <label>Rate
+              <input type="range" id="ttsRate" min="0.6" max="1.4" step="0.05" />
+            </label>
+            <label>Pitch
+              <input type="range" id="ttsPitch" min="0.8" max="1.2" step="0.05" />
+            </label>
+          </div>
+          <p class="hint">On iPad/iPhone, start audio after the first tap (iOS requires a gesture). If no German voice appears, the system’s default will be used.</p>
+        </fieldset>
+        <button type="submit">Save Settings</button>
+      </form>
+      <p class="hint">All data is stored in your browser (localStorage). No account, no cloud.</p>
+    </section>
+  </main>
+
+  <footer>
+    <small>Offline-first. Export regularly to back up.</small>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
