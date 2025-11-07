@@ -48,3 +48,51 @@ footer { text-align: center; padding: 20px; color: #666; }
 .typing-wrap { display: grid; gap: 6px; }
 #typedAnswer { padding: 8px; border-radius: 6px; border: 1px solid #ccc; }
 label { display: grid; gap: 6px; }
+
+
+/* ---- Deck picker layout ---- */
+.topnav {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;            /* allows wrapping on narrow screens */
+  margin-bottom: 0;           /* header already has spacing/shadow */
+}
+
+.topnav .nav-left {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.deck-picker {
+  margin-left: auto;          /* push deck picker to the right */
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;            /* wrap its own controls if needed */
+}
+
+.deck-picker label {
+  font-size: 0.9rem;
+  color: #333;
+}
+
+.deck-picker select,
+.deck-picker button {
+  font-size: 0.9rem;
+  padding: 6px 10px;          /* slightly tighter than main nav buttons */
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  background: #fff;
+  cursor: pointer;
+}
+
+/* Keep things comfortable on very small screens */
+@media (max-width: 520px) {
+  .deck-picker {
+    margin-left: 0;           /* let it drop under the buttons gracefully */
+    width: 100%;
+    justify-content: flex-start;
+  }
+}
