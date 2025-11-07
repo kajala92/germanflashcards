@@ -133,7 +133,15 @@
       <p class="hint">All data is stored in your browser (localStorage). No account, no cloud.</p>
     </section>
   </main>
-
+<!-- Deck picker -->
+<div class="deck-picker" style="margin-left:auto; display:flex; gap:8px; align-items:center;">
+  <label for="deckSelect" style="font-size:0.9rem;">Deck</label>
+  <select id="deckSelect"></select>
+  <button id="newDeckBtn" title="Create an empty deck">New</button>
+  <button id="importDeckBtn" title="Import JSON into this deck">Import</button>
+  <button id="importUrlBtn" title="Import from URL (raw JSON)">From URL</button>
+  <button id="exportDeckBtn" title="Export current deck">Export</button>
+</div>
   <footer>
     <small>Offline-first. Export regularly to back up.</small>
   </footer>
